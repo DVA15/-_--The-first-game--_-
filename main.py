@@ -136,4 +136,9 @@ while playing:             #нескінченний цикл, for скінче�
         if bonus[1].top > HEIGHT:
             bonuses.pop(bonuses.index(bonus))
 
+  #  for bonus in bonuses:
+       # if bonus[1].top > HEIGHT: 500
+       #  if bonus[2].top >  WIDTH 700
+        #    bonuses.pop(bonuses.index(bonus))
+
  
